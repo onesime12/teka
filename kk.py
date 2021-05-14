@@ -1,1 +1,1 @@
-print("mala  oom")
+print("mala  onesime")
