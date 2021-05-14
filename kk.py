@@ -1,1 +1,1 @@
-print("mala")
+print("mala  oom")
