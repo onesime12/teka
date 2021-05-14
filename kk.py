@@ -1,1 +1,1 @@
-nnnsm
+print("mala")
